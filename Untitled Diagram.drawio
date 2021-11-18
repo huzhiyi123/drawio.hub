@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T14:50:57.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" version="15.5.8" etag="ChX5QWpCP00A0eS7iyvZ" type="github"><diagram id="s-LuINobn3t0qoPxdY62">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-18T08:36:20.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="CqK83WUquKTR_ILDmGLz" version="15.7.4" type="github">
+  <diagram id="s-LuINobn3t0qoPxdY62" name="Page-1">
+    <mxGraphModel dx="734" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FjHui_zAlFXv06aGuSNT-8" value="异常预测系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-220" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-103" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192" y="-106" as="sourcePoint" />
+            <mxPoint x="242" y="-156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="-160" as="sourcePoint" />
+            <mxPoint x="430" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-13" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-212" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="505" y="-212" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-90" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-90" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-90" as="sourcePoint" />
+            <mxPoint x="500" y="-157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-20" value="云计算集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-78" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-21" value="提前侦测异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-22" value="故障机器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-24" value="正常机器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="-242" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FjHui_zAlFXv06aGuSNT-25" value="热迁移" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464" y="-124" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
