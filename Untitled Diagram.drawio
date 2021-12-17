@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T09:36:49.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="7aFpk8rEy57cdc55i7f4" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T09:37:18.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="YsnhCMDie2EvgrcVVpOj" version="15.9.1" type="github">
   <diagram id="s-LuINobn3t0qoPxdY62" name="Page-1">
     <mxGraphModel dx="2979" dy="3939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2217,8 +2217,8 @@
         <mxCell id="YLFuqwQZNlx2O-XuYxJx-1" value="HNSW总体查询流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="144.75" y="-2723.25" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YLFuqwQZNlx2O-XuYxJx-2" value="每一层图索引查询流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="498" y="-2726.5" width="138" height="30" as="geometry" />
+        <mxCell id="YLFuqwQZNlx2O-XuYxJx-2" value="HNSW中每一层图索引查询流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-2725" width="172" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
